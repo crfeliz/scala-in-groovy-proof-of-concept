@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.DS_STORE
+target
+/my-grails-app/.slcache/
+/target
