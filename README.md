@@ -6,11 +6,11 @@ First
 - sbt publishM2
 
 Run via scala
-- cd my-scala-lib
+- in my-scala-lib
 - sbt run
 
 Run via groovy
-- cd my-grails-app
+- in my-grails-app
 - grails run-app
 - ```curl -X GET \
   http://localhost:8080/my-grails-app/hello-scala \
