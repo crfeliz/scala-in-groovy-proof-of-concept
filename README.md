@@ -1,6 +1,10 @@
 # scala-in-groovy-proof-of-concept
 ### Proof of concept for calling scala (which uses play-json) from groovy
 
+First
+- cd my-scala-lib
+- sbt publishM2
+
 Run via scala
 - cd my-scala-lib
 - sbt run
